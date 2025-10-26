@@ -18,3 +18,8 @@ if you dont trust this script then take a backup of your `shortcuts.vdf` because
 
 # contribution
 buddy no
+
+# faq
+
+## is it vibe coded
+ye
